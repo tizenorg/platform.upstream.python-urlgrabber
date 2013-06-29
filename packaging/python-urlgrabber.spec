@@ -33,6 +33,6 @@ python setup.py install --root=%{buildroot} -O1 --prefix=%{_prefix}
 %remove_docs
 
 %files
-%manifest python-urlgrabber.manifest
+%manifest %{name}.manifest
 %{_bindir}/urlgrabber
 %{python_sitelib}/urlgrabber*
