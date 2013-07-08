@@ -1,0 +1,8 @@
+Change-Id: I0acddc325ed11e1d6cbed796a0a4adb4bdb67412
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:39:19 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4915
+Project: platform/upstream/python-urlgrabber
+Branch: refs/heads/tizen
